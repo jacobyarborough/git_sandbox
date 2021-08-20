@@ -4,7 +4,7 @@
 $global_var_1 = 10
 
 # Class Variables: Can access across instance objects
-@@calss_var_1 = 10
+@@class_var_1 = 10
 
 # Instance Variables: Are local to each instance and can not cross classes
 @instance_var_1 = 10
