@@ -88,3 +88,6 @@ end
 
 array_3 = array_add(array_1,array_2)
 puts "The new array is #{array_3}"
+
+# 9
+def 
