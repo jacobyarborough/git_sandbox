@@ -90,4 +90,17 @@ array_3 = array_add(array_1,array_2)
 puts "The new array is #{array_3}"
 
 # 9
-def 
+def repeat(string1)
+  puts "#{(string1 + " ")*5}"
+end
+
+repeat("Word")
+
+#10
+def zero_method(num)
+  return num*0
+end
+
+new_num = zero_method(100000000)
+
+puts new_num
